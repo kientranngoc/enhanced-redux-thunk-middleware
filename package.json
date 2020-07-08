@@ -50,5 +50,13 @@
     "hooks": {
       "pre-commit": "pretty-quick --staged && npm run lint && npm run test"
     }
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kientranngoc/enhanced-redux-thunk-middleware.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kientranngoc/enhanced-redux-thunk-middleware/issues"
+  },
+  "homepage": "https://github.com/kientranngoc/enhanced-redux-thunk-middleware#readme"
 }
